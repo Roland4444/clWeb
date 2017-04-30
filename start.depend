@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486220045 source:c:\users\roman\documents\opencl\start\main.c
+	<stdio.h>
+	<stdlib.h>
+	<CL/cl.h>
+
